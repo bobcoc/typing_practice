@@ -1,6 +1,8 @@
 # typing_practice
 # C Programming Typing Practice
-
+<p align="center">
+  <img src="demo.png" alt="Demo of Typing Practice" width="600">
+</p>
 This program is designed to help students improve their C/C++ programming typing skill. It provides a interactive environment for practicing typing C/C++ code, including keywords and various algorithms.
 
 ## Features
